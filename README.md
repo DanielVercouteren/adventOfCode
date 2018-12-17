@@ -5,7 +5,7 @@ Every day will have two challenges, where the second is unlocked after completin
 
 Current Challenges:
 
-* [Day  1] *
+* [Day  1] * *
 * [Day  2]
 * [Day  3]
 * [Day  4]
