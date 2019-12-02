@@ -1,12 +1,12 @@
-# Advent of Code 2018 <br /> <sub>by Daniël Vercouteren</sub>
+# Advent of Code 2019 <br /> <sub>by Daniël Vercouteren</sub>
 
-This year I will try to do the Advent of Code, an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. (https://adventofcode.com/2018/about)
+This year I will try to do the Advent of Code, an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. (https://adventofcode.com/2019/about)
 Every day will have two challenges, where the second is unlocked after completing the first. Each day you will be able to receive two stars, one for each completed challenge.
 
 Current Challenges:
 
 * [Day  1] * *
-* [Day  2] * *
+* [Day  2] 
 * [Day  3]
 * [Day  4]
 * [Day  5]
@@ -30,6 +30,3 @@ Current Challenges:
 * [Day 23]
 * [Day 24]
 * [Day 25]
-
-
-[star]: https://adventofcode.com/favicon.png
