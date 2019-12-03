@@ -55,8 +55,6 @@ run = () => {
   console.log('Intersections found, calculating the shortest distance...')
   console.log(calculateShortestManhattanDistance())
   console.timeEnd('run')
-
-  console.log(`Function executed in ${console.timeLog('run')} milliseconds`)
 }
 
 run()
