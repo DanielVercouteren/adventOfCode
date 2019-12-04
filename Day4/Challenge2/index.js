@@ -18,7 +18,7 @@ const hasTwoAdjacentDigits = (input) => {
 const run = () => {
   console.time('run')
   for(let i = range[0]; i != range[1]; i++ ) {
-    if (hasTwoAdjacentDigits(i) && hasIncreasingDigits(i)) {
+    if (hasTwoAdjacentDigits(i) && hasIncreasingDigits(i) && isNoLargerGroup(i)) {
       amountOfPasswords++
     }
   }
